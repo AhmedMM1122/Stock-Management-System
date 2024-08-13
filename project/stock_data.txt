@@ -1,0 +1,2 @@
+2,Product B,250
+3,Product C,260
